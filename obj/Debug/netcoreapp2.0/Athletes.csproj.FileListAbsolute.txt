@@ -1,0 +1,11 @@
+c:\users\brand\source\repos\Athletes\Athletes\bin\Debug\netcoreapp2.0\Athletes.deps.json
+c:\users\brand\source\repos\Athletes\Athletes\bin\Debug\netcoreapp2.0\Athletes.runtimeconfig.json
+c:\users\brand\source\repos\Athletes\Athletes\bin\Debug\netcoreapp2.0\Athletes.runtimeconfig.dev.json
+c:\users\brand\source\repos\Athletes\Athletes\bin\Debug\netcoreapp2.0\Athletes.dll
+c:\users\brand\source\repos\Athletes\Athletes\bin\Debug\netcoreapp2.0\Athletes.pdb
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.csprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.AssemblyInfoInputs.cache
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.AssemblyInfo.cs
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.dll
+c:\users\brand\source\repos\Athletes\Athletes\obj\Debug\netcoreapp2.0\Athletes.pdb
